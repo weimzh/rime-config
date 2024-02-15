@@ -145,9 +145,9 @@ patch:
     - {label: 'ㄝ', long_click: '<', click: ','}
     - {label: 'ㄡ', long_click: '>', click: '.'}
     - {label: 'ㄥ', long_click: '?', click: '/'}
-    - {click: Shift_L, label: 換檔, send_bindings: false}
-    - {click: Mode_switch, long_click: Menu}
-    - {click: Keyboard_number, long_click: liquid_keyboard_switch}
+    - {click: Shift_L, send_bindings: false}
+    - {click: Keyboard_number, long_click: Menu}
+    - {click: Keyboard_bqrw, long_click: liquid_keyboard_switch}
     - {click: space, width: 30}
     - {label: 'ㄦ', long_click: '"', click: "-"}
     - {long_click: '。', click: '，'}
