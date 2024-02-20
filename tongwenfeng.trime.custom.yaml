@@ -25,10 +25,10 @@ patch:
       - {width: 5, key_back_color: bh2, key_text_color: th2}
       - {click: a, long_click: select_all, key_back_color: bh2, key_text_color: th2}
       - {click: s, long_click: '_', key_back_color: bh2, key_text_color: th2}
-      - {click: d, long_click: "\\", key_back_color: bh2, key_text_color: th2}
+      - {click: d, long_click: "~", key_back_color: bh2, key_text_color: th2}
       - {click: f, long_click: "|", key_back_color: bh2, key_text_color: th2}
       - {click: g, long_click: '+', key_back_color: bh2, key_text_color: th2}
-      - {click: h, long_click: '~', key_back_color: bh2, key_text_color: th2}
+      - {click: h, long_click: ':', key_back_color: bh2, key_text_color: th2}
       - {click: j, long_click: ";", key_back_color: bh2, key_text_color: th2}
       - {click: k, long_click: '"', key_back_color: bh2, key_text_color: th2}
       - {click: l, long_click: "'", key_back_color: bh2, key_text_color: th2}
@@ -71,10 +71,10 @@ patch:
       - {width: 5, key_back_color: bh2, key_text_color: th2}
       - {click: a, long_click: select_all, key_back_color: bh2, key_text_color: th2}
       - {click: s, long_click: '_', key_back_color: bh2, key_text_color: th2}
-      - {click: d, long_click: "\\", key_back_color: bh2, key_text_color: th2}
+      - {click: d, long_click: "~", key_back_color: bh2, key_text_color: th2}
       - {click: f, long_click: "|", key_back_color: bh2, key_text_color: th2}
       - {click: g, long_click: '+', key_back_color: bh2, key_text_color: th2}
-      - {click: h, long_click: '~', key_back_color: bh2, key_text_color: th2}
+      - {click: h, long_click: ':', key_back_color: bh2, key_text_color: th2}
       - {click: j, long_click: ";", key_back_color: bh2, key_text_color: th2}
       - {click: k, long_click: '"', key_back_color: bh2, key_text_color: th2}
       - {click: l, long_click: "'", key_back_color: bh2, key_text_color: th2}
